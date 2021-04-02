@@ -59,10 +59,12 @@ Data Cleaning & Manipulation:
 ## Communication
 # Visualizations:
 Top 10 Stations by Entry & Exit (Nov 2020-Jan 2019):
+
 ![Top_10_Entry_Dec_Jan](https://github.com/Jason-HKim/MTA_EDA_Project/blob/main/Images/Top_10_Entry_Dec_Jan.png)
 ![Top_10_Exit_Dec_Jan](https://github.com/Jason-HKim/MTA_EDA_Project/blob/main/Images/Top_10_Exit_Dec_Jan.png)
 
 Daily Entries for Each Top 10 Station for Each Month:
+
 ![Top_10_Entry_Nov](https://github.com/Jason-HKim/MTA_EDA_Project/blob/main/Images/November/Top_10_Entry_Nov.png)
 ![Top_10_Exit_Nov](https://github.com/Jason-HKim/MTA_EDA_Project/blob/main/Images/November/Top_10_Exit_Nov.png)
 ![Top_10_Entry_Dec](https://github.com/Jason-HKim/MTA_EDA_Project/blob/main/Images/December/Top_10_Entry_Dec.png)
@@ -73,6 +75,7 @@ Daily Entries for Each Top 10 Station for Each Month:
 
 
 Day of Week Average Entries & Exits for Each Top 10 Station For Each Month:
+
 ![Top_10_DayOfWeek_Entry_Nov](https://github.com/Jason-HKim/MTA_EDA_Project/blob/main/Images/November/Top_10_DayOfWeek_Entry_Nov.png)
 ![Top_10_DayOfWeek_Exit_Nov](https://github.com/Jason-HKim/MTA_EDA_Project/blob/main/Images/November/Top_10_DayOfWeek_Exit_Nov.png)
 ![Top_10_DayOfWeek_Entry_Dec](https://github.com/Jason-HKim/MTA_EDA_Project/blob/main/Images/December/Top_10_DayOfWeek_Entry_Dec.png)
@@ -81,6 +84,7 @@ Day of Week Average Entries & Exits for Each Top 10 Station For Each Month:
 ![Top_10_DayOfWeek_Exit_Jan](https://github.com/Jason-HKim/MTA_EDA_Project/blob/main/Images/January/Top_10_DayOfWeek_Exit_Jan.png)
 
 Day of Week Average Entries & Exits For All Top 10 Stations Combined for Each Month:
+
 ![DayOfWeek_Nov](https://github.com/Jason-HKim/MTA_EDA_Project/blob/main/Images/November/DayOfWeek_Nov.png)
 ![DayOfWeek_Dec](https://github.com/Jason-HKim/MTA_EDA_Project/blob/main/Images/December/DayOfWeek_Dec.png)
 ![DayOfWeek_Jan](https://github.com/Jason-HKim/MTA_EDA_Project/blob/main/Images/January/DayOfWeek_Jan.png)
